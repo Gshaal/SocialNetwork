@@ -4,7 +4,7 @@ MERN stack
 
 Create posts and get live updates when your friends update their status!
 
-[Live Demon](https://socialnewtwork-f1522.web.app/).
+[Live Demo](https://socialnewtwork-f1522.web.app/).
 ## Installation
 
 
